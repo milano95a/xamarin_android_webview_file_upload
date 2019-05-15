@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileUpload</string>
+    <string name="action_settings">Settings</string>
+    <string name="permission_granted">Permission granted</string>
+    <string name="permissions_not_granted">Permission not granted</string>
+
+</resources>
