@@ -1,5 +1,5 @@
 # Simple App that uploads file to WebView
 
-**NOTE 
+**NOTE** 
 1) Set READ_EXTERNAL_FILE/WRITE_EXTERNAL_FILE permissions
-2) Mono.Android.Export** 
+2) Mono.Android.Export 
